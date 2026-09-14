@@ -23,25 +23,21 @@ My goal is to become a professional Frontend Developer and, in the future, grow 
 ### Frameworks and Libraries
 - React — Basics
 - Redux — Basics
-
+- 
 ### Tools
 - Git
 - GitHub
 - Visual Studio Code
 - Figma
 - Android Studio
-
   
 ## Code Example
 ```javascript
 function multiply(a, b) {
   return a * b;
 }
-
 console.log(multiply(5, 3));
 ```
-
-
 This is a simple JavaScript function that takes two numbers and returns their product.
 
 ## Languages
