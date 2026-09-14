@@ -29,6 +29,7 @@ My goal is to become a professional Frontend Developer and, in the future, grow 
 - GitHub
 - Visual Studio Code
 - Figma
+- Android Studio
 
   
 ## Code Example
